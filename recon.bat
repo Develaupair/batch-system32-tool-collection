@@ -1,3 +1,4 @@
+::Copyright (C) 2021 Anubosiris
 @set mode=%1
 @if "%mode%" NEQ "" goto once
 @echo -----------------------------------------------------------
