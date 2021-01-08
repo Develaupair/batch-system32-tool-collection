@@ -1,3 +1,4 @@
+::Copyright (C) 2021 Anubosiris
 @if "%1" EQU "" (set /a s=0) else (set /a s=%1)
 @echo System shutdown in %s% seconds. Press CTRL+C to cancel shutdown. Press any key to shutdown instantly.
 @timeout /t %s%
